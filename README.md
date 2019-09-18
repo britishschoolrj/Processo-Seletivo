@@ -8,7 +8,10 @@ Antes de "meter a mão na massa", leia com atenção todas as instruções abaix
 ## Mostre-nos do que é capaz!
 
 Queremos saber como é sua relação com o desenvolvimento de software e com a ferramenta de controle de versão que utilizamos, o git. 
-Então, não sua seu projeto em um só commit! Não tem problema se você refatorou seu código na metade. É exatamente esse tipo que relação que avaliaremos.
+
+Então, não suba seu projeto em um só commit! 
+
+Não tem problema se você refatorou seu código na metade ou algo do gênero. É exatamente esse tipo que relação que avaliaremos.
 	
 ## Instruções:
 
